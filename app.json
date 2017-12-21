@@ -1,0 +1,23 @@
+{
+  "name": "Node Push Service",
+  "description": "Socked.io push service for realtime notifications",
+  "website": "https://github.com/stamat/node-push",
+  "repository": "https://github.com/stamat/node-push",
+  "logo": "https://stamat.github.io/node-push/logo.svg",
+  "success_url": "/",
+  "keywords": [
+    "node",
+    "push",
+    "express",
+    "socket.io",
+    "realtime",
+    "websocket"
+  ],
+  "scripts": {
+  },
+  "addons": [
+  ],
+  "env": {
+    "BUILDPACK_URL": "https://github.com/heroku/heroku-buildpack-nodejs"
+  }
+}

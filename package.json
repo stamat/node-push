@@ -1,0 +1,12 @@
+{
+  "name": "node-push-service",
+  "version": "0.0.1",
+  "description": "Socked.io push service for realtime notifications",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^1.7.3"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
